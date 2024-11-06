@@ -28,9 +28,23 @@ Scoring: Each piece of food increases your score by 1. The game resets if you co
 bash
 Kodu kopyala
 snake-game/
+
 │
+
 ├── main.py             # The main game loop and screen setup
+
 ├── snake.py            # Snake class handling movement, growth, and direction
+
 ├── food.py             # Food class for spawning food at random locations
+
 ├── scoreboard.py       # Scoreboard class to track and display scores
+
 └── data.txt            # Stores the high score
+
+# 👾 Code Highlights
+Collision Detection: The game detects collisions between the snake and walls or food and handles scoring and resets.
+Score Persistence: The highest score is saved in data.txt and displayed at the start of each game session.
+
+# 🙌 Acknowledgments
+Thanks to the Python community for inspiration and guidance on building projects with turtle. 
+Special thanks to anyone who tries and improves this game!
