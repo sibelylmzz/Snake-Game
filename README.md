@@ -15,7 +15,7 @@ Self-Collision & Wall Detection: Game resets upon collision with walls or the sn
 
 # 🛠️ Installation
 
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/your-username/Snake-Game.git
 
 cd snake-game
 
@@ -38,8 +38,7 @@ Objective: Collect as much food as possible without hitting the walls or the sna
 Scoring: Each piece of food increases your score by 1. The game resets if you collide with the wall or your own tail.
 
 # 🗂️ Project Structure
-bash
-Kodu kopyala
+
 snake-game/
 
 │
