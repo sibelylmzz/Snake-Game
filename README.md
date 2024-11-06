@@ -13,6 +13,20 @@ Random Food Generation: Food spawns randomly on the screen, and collecting it ex
 Score Tracking: Displays current and high scores in the top center.
 Self-Collision & Wall Detection: Game resets upon collision with walls or the snake's own body.
 
+# 🛠️ Installation
+
+git clone https://github.com/your-username/snake-game.git
+
+cd snake-game
+
+Install required dependencies (if any):
+
+This game is built with Python's turtle graphics library, which is included in the Python Standard Library. Ensure you have Python 3.6+ installed.
+
+Run the game:
+
+python main.py
+
 # 🎯 How to Play
 Use the arrow keys to control the snake:
 
@@ -21,7 +35,6 @@ Down Arrow: Move Down
 Left Arrow: Move Left
 Right Arrow: Move Right
 Objective: Collect as much food as possible without hitting the walls or the snake's own body.
-
 Scoring: Each piece of food increases your score by 1. The game resets if you collide with the wall or your own tail.
 
 # 🗂️ Project Structure
